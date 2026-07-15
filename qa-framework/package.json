@@ -1,0 +1,16 @@
+{
+  "name": "qa-framework",
+  "version": "1.0.0",
+  "description": "Автоматизированное тестирование UI + API с использованием Playwright.",
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
